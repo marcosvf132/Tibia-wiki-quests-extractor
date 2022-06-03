@@ -7,6 +7,20 @@ This tool was created by me for studies purpose only, not intented to have any m
 # Output
 The output file is created on the executable path on a file named 'output.lua'
 
+## Structure
+```
+|- Quest
+   |- RookQuest
+      | -
+      | -
+   |- WorldChange
+      | -
+      | -
+   |- MainQuest
+      | -
+      | -
+ ```
+
 # Example
 Data was generated on 03 july 2022
 ```
